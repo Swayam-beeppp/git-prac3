@@ -1,2 +1,3 @@
-name=input("Enter name: ")
-"print(f'Hello, {name}.')"
+
+name = input("Enter Name: ")
+print(f'Hello,{name}.')
